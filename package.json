@@ -1,0 +1,14 @@
+{
+  "name": "expresswebapp",
+  "version": "1.0.0",
+  "description": "simple web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Thomas Loughran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
